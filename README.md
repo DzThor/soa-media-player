@@ -12,7 +12,7 @@
 
 ## Instrucciones de uso
 
-1. Realizar un clone del repositorio https://github.com/alu0100891447/soa-media-player-alu0100891447
+1. Realizar un clone del repositorio https://github.com/DzThor/soa-media-player
 2. Abrir el proyecto *videoplayer.pro*.
 3. Pulsar el botón *Build* o reaizar la combinación de teclas *Ctrl+B*.
 4. Pulsar el botón *Run* o realizar la combinación de teclas *Ctrl+R*.
